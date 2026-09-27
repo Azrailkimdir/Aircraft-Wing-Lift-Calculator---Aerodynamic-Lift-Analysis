@@ -1,6 +1,6 @@
 ## Project Status
 
-🚧 In Development
+✅ Completed
 
 # Aircraft Wing Lift Calculator 
 
@@ -64,8 +64,38 @@ Display lift-force relationships through graphs and charts.
 - [Project Report ](Aircraft_Wing_Lift_Calculator_Project_Report.pdf)
 
 
+## Results
+
+The calculator successfully computes aerodynamic lift force using the standard lift equation.
+
+Example:
+
+- Air Density = 1.225 kg/m³
+- Velocity = 120 m/s
+- Wing Area = 30 m²
+- Lift Coefficient = 0.85
+
+Calculated Lift Force:
+
+✅ 224,910 N
+
+The project demonstrates how changes in airspeed, wing area, and lift coefficient significantly affect lift generation.
+
+## Key Lessons Learned
+
+- Lift is generated through the interaction of multiple variables.
+- Airspeed has a significant effect on lift production.
+- Mathematics provides the foundation for aerodynamic analysis.
+- Programming can be used to model real aerospace engineering concepts.
+- Small changes in flight conditions can produce large performance differences.
+  
+
 ## Author
 
 Sarp AKAR
+
+Oct 2026
+
+
 
 
